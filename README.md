@@ -1,9 +1,9 @@
 # GMB05_lab05_javaProgramming
 Practical work 5. In the discipline of Java Programming
 
-![Screenshot](Screenshot_1.jpg)
+![Screenshot](Screenshot_1.png)
 
-![Screenshot](Screenshot_2.jpg)
+![Screenshot](Screenshot_2.png)
 
 ```
 public Solve(double a, double b, double x) {
